@@ -1,3 +1,3 @@
 # ndaare
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ndaare)
+[Edited by Poly80 ⚡️](https://stackblitz.com/edit/ndaare)
