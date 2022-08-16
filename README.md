@@ -1,4 +1,4 @@
-# ndaare
+# colored-cards-carousel
 
 [Edited by Poly80 ⚡️](https://stackblitz.com/edit/ndaare)
 
